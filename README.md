@@ -22,3 +22,4 @@ CSS3
 ## 📌 Purpose
 
 The website serves as my personal portfolio to highlight my work and make it easy for others to connect with me.
+
